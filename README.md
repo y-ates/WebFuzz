@@ -1,0 +1,2 @@
+# WebFuzz
+Wordlists for fuzzers
